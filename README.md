@@ -9,7 +9,7 @@
  <br />
  
 
- ### Click here for live demo   <a href="https://siddharthchn.github.io/DrumKIt/" target="_blank">Tindog</a>
+ ### Click here for live demo   <a href="https://siddharthchn.github.io/tindog/" target="_blank">Tindog</a>
 
 </p>
 
@@ -18,7 +18,8 @@
 ## About The Project:-
 
 
-![drumkit](https://github.com/Siddharthchn/DrumKIt/assets/109435160/0d41f1a2-f7e8-489e-a465-f5e9be8341c1)
+
+![tindog](https://github.com/Siddharthchn/tindog/assets/109435160/fac6a51e-4502-4970-9a1f-ac29c8ef622b)
 
 
 
